@@ -12,14 +12,19 @@ The role of the CDF Technical Oversight Committee (TOC) is to facilitate communi
 
 - such other matters related to the technical role of the TOC as may be communicated to the TOC by the Governing Board.
 
+## Governance
+
+* The [charter](https://github.com/cdfoundation/charter/blob/master/CHARTER.md) under which CDF operates
+
 ## Members
 
-* Kohsuke Kawaguchi (Jenkins) [Chair] - 03/1/2019 to 02/29/2020  [GB-appointed]
-* James Strachan (Jenkins-X) - 03/1/2019 to 02/29/2020  [GB-appointed]
-* Dan Lorenc (Tekton) - 03/1/2019 to 02/29/2020  [GB-appointed]
-* Andy Glover (Spinnaker) - 03/1/2019 to 02/29/2020  [GB-appointed]
-* Tara Hernandez (Google) - 05/1/2019 to 04/30/2020 [TOC-appointed]
-* Yoav Landman (JFrog) - 05/1/2019 to 04/30/2020 [TOC-appointed]
+* Dan Lorenc (Tekton) [Chair] - 03/1/2020 to 02/28/2021  [TOC-appointed]
+* Kohsuke Kawaguchi (Jenkins) - 03/1/2020 to 02/28/2021  [GB-appointed]
+* James Strachan (Jenkins-X) - 03/1/2020 to 02/28/2021  [GB-appointed]
+* Isaac Mosquera (Spinnaker) - 08/1/2020 to 02/28/2021  [TOC-appointed]
+* Tara Hernandez (Google) - 05/1/2020 to 04/30/2021 [TOC-appointed]
+* Yoav Landman (JFrog) - 04/20/2020 to 04/30/2021 [TOC-appointed]
+* Jithin Emanuel (Verizon Media) - 03/1/2020 to 02/28/2021 [TOC-appointed]
 
 Updated website for TOC: https://cd.foundation/about/toc/
 
@@ -33,11 +38,21 @@ See the current [CDF projects here](https://cd.foundation/projects/).
 
 The TOC communication happens via a public mailing list: https://lists.cd.foundation/g/cdf-toc
 
-The meeting minutes are here: https://docs.google.com/document/d/1uBHar55fTInWF9Li4t0lyG3tTC8BRLU0FfBfsgk_Jrs/edit#
+The meeting agenda is hosted here: [TOC Agenda](https://docs.google.com/document/d/1uBHar55fTInWF9Li4t0lyG3tTC8BRLU0FfBfsgk_Jrs/edit?ts=5c9580be#heading=h.en8cy6hno0c6)
 
-The public calendar is here: https://calendar.google.com/calendar?cid=amJqM250cjJmdGZyMmRxZDNwMmppYjJsMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+The meeting minutes are here: [TOC Meeting Notes](docs/TOC_Meeting_Notes.md)
+
+The public calendar is here: [TOC Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY)
 
 ## Documents
 * [Principles](PRINCIPLES.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
-* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE_OF_CONDUCT.md)
+
+## Project Guidance
+
+* [Copyright notice recommendations](https://github.com/cdfoundation/foundation/blob/master/copyright.md)
+* [Project Website guidelines](https://github.com/cdfoundation/foundation/blob/master/project-website-guidelines.md) for mentioning companies while maintaining neutrality
+* [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-collection-and-usage-policy/)
